@@ -40,36 +40,35 @@ The following is a sample schedule based on the materials provided in this repo.
 
 |Lesson # | Topic | Notes|
 |----|---------|---------------|
-| __Lesson 0__| Git and GitHub | If your market does not schedule a 'class 0,' use the GitHub lesson insert to teach GitHub in either lesson 1 or 2. |
+| __Lesson 0__| Git and GitHub | |
 | __Lesson 1__| HTML Basics |  |
 | __Lesson 2__| CSS Basics |  |
 | __Lesson 3__| CSS Box Model |  |
-| __Lesson 4__| Layout |  |
-| __Lesson 5__| Layout Lab | Lab lesson, no slides provided; Starter and solution code can be found in the 'Assignment' subdirectory. |
-| __Lesson 6__| Layout Lab | Lab lesson, no slides provided. |
-| __Lesson 7__| Intro to Programming | |
-| __Lesson 8__| jQuery Basics | |
-| __Lesson 9__| Conditionals | |
-| __Lesson 10__| Functions | Optional advanced lesson content is available in the "10a" subdirectory. |
-| __Lesson 11__| Card Matching Game Lab | Lab lesson, no slides provided. |
-| __Lesson 12__| Refactoring | |
-| __Lesson 13__| Responsive Basics | |
-| __Lesson 14__| Responsive Lab | Basic slide deck provided. |
-| __Lesson 15__| Basic Forms | Optional advanced content on form validation and search is available in the 'optional' subdirectory. |
-| __Lesson 16__| Forms Lab | Lab lesson, no slides provided. |
-| __Lesson 17__| Final Project Lab | Lab lesson, no slides provided. |
-| __Lesson 18__| Student Choice Lesson | No lesson plan or slides provided. |
-| __Lesson 19__| Instructor Choice Lesson | Sample lesson plan provided. |
-| __Lesson 20__| Final Project Presentations | No lesson plan or slides provided. |
+| __Lesson 4__| Flexbox |  |
+| __Lesson 5__| CSS Grid | |
+| __Lesson 6__| Layout Lab | |
+| __Lesson 7__| Responsive Design | |
+| __Lesson 8__| Animations | |
+| __Lesson 9__| Intro to Programming | |
+| __Lesson 10__| jQuery | |
+| __Lesson 11__| More jQuery | |
+| __Lesson 12__| Conditionals + This | |
+| __Lesson 13__| Functions and jQuery Plugins | |
+| __Lesson 14__| Arrays + Loops | |
+| __Lesson 15__| Basic Forms | |
+| __Lesson 16__| Forms Lab |  |
+| __Lesson 17__| Final Project Lab |  |
+| __Lesson 18__| Student Choice Lesson |  |
+| __Lesson 19__| Instructor Choice Lesson |  |
+| __Lesson 20__| Final Project Presentations |  |
 
 <br>
 
 ## Meet the Team
-### John Serrao (Lead Instructor)
-John is a displaced Texan who's been up in the national capital leading large-scale web development projects for the last ten years. His interests in this field are focused on improving user experience in scalable web applications that address real-world needs. One of his longer-term goals is to unite the worlds of medicine and agriculture with scalable, technological solutions that dramatically bring down the cost of quality food and help reverse the trend of chronic disease in the United States. **If you've got a question, and you're not sure who to ask, start with Marc!**
+### Marc Wright (Lead Instructor)
+ **If you've got a question, and you're not sure who to ask, start with Marc!**
 
-### Eva Lai (Teaching Assistant)
-Eva is a graduate of General Assembly's Web Development Immersive. After 3+ years of working on the strategy end of IT transformation, she discovered she had a bigger passion for the technical side which eventually led her to pursue a career pivot into the development. Her passions include Javascript (yes!), Drupal and other fun technical stuff.
+###  (Teaching Assistant)
 
-### David Allison (Course Producer)
-All questions concerning enrollment/payment, or subjects you would prefer not to discuss with the instructional team, should be addressed to David Allison (our course producer) at: david.allison@generalassemb.ly
+###  (Course Producer)
+All questions concerning enrollment/payment, or subjects you would prefer not to discuss with the instructional team, should be addressed to  (our course producer) at: @generalassemb.ly
