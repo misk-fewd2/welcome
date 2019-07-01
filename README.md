@@ -40,17 +40,17 @@ The following is a sample schedule based on the materials provided in this repo.
 
 |Lesson # | Topic | Notes|
 |----|---------|---------------|
-| __Lesson 0__| Git and GitHub | |
-| __Lesson 1__| HTML Basics |  |
-| __Lesson 2__| CSS Basics |  |
-| __Lesson 3__| CSS Box Model |  |
-| __Lesson 4__| Flexbox |  |
-| __Lesson 5__| CSS Grid | |
-| __Lesson 6__| Layout Lab | |
-| __Lesson 7__| Responsive Design | |
-| __Lesson 8__| Animations | |
-| __Lesson 9__| Intro to Programming | |
-| __Lesson 10__| jQuery | |
+| __Lesson 0__| Git and GitHub | 01-07-19 |
+| __Lesson 1__| HTML Basics | 01-07-19 |
+| __Lesson 2__| CSS Basics | 03-07-19 |
+| __Lesson 3__| CSS Box Model | 08-07-19 |
+| __Lesson 4__| Flexbox |  10-07-19 |
+| __Lesson 5__| CSS Grid |15-07-19 |
+| __Lesson 6__| Layout Lab | 17-07-19 |
+| __Lesson 7__| Responsive Design | 22-07-19 |
+| __Lesson 8__| Animations | 24-07-19 |
+| __Lesson 9__| Intro to Programming | 29-07-19 |
+| __Lesson 10__| jQuery | 31-07-19 |
 | __Lesson 11__| More jQuery | |
 | __Lesson 12__| Conditionals + This | |
 | __Lesson 13__| Functions and jQuery Plugins | |
