@@ -66,9 +66,15 @@ The following is a sample schedule based on the materials provided in this repo.
 
 ## Meet the Team
 ### Marc Wright (Lead Instructor)
+
+Slack: `@Marc Wright`
+Email: `marc@ga.co`
+
  **If you've got a question, and you're not sure who to ask, start with Marc!**
 
-###  (Teaching Assistant)
+### Moroj Alharbi (Instructional Associate)
+
+Slack: `@Moroj - IA` 
 
 ###  (Course Producer)
-All questions concerning enrollment/payment, or subjects you would prefer not to discuss with the instructional team, should be addressed to  (our course producer) at: @generalassemb.ly
+All questions concerning enrollment or subjects you would prefer not to discuss with the instructional team, should be addressed to  (our course producer) at: @generalassemb.ly
