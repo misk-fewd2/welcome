@@ -1,10 +1,10 @@
 ![GeneralAssemb.ly](ga-logo.jpg)
 
-# FEWD2 Course Repository
+# MiSK FEWD3 Course Repository
 Welcome to Front-End Web Development (FEWD) at General Assembly! This is where we will be hosting all class slides, assignments, starter code, and more.
 
 ## Communication
-General Assembly's gives every class its own Slack chatroom - here is ours: [FEWD 2 Slack Channel](https://fewddc41.slack.com). It's the best way to get ahold of your instructors. You should have received an invitation but if not, let Marc know and we can get you in there.
+General Assembly's gives every class its own Slack chatroom - here is ours: [MiSK FEWD 3 Slack Channel](https://miskacademy.slack.com/messages/CKEMBL43T/team/UDSMSV54J/). It's the best way to get ahold of your instructors. You should have received an invitation but if not, let Marc know and we can get you in there.
 
 Slack is channel based; if you have questions that would benefit everyone, ask them in the *#general* channel. Missing class? Of course not, but give us a heads up in *#missing-class*. We'll also post useful resources in *#useful-resources*. You can also contact instructors, TAs and classmates directly using the tool.
 
