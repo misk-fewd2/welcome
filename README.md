@@ -51,14 +51,14 @@ The following is a sample schedule based on the materials provided in this repo.
 | __Lesson 8__| Animations | 24-07-19 |
 | __Lesson 9__| Intro to Programming | 29-07-19 |
 | __Lesson 10__| jQuery | 31-07-19 |
-| __Lesson 11__| More jQuery | |
-| __Lesson 12__| Conditionals + This | |
-| __Lesson 13__| Functions and jQuery Plugins | |
-| __Lesson 14__| Arrays + Loops | |
-| __Lesson 15__| Basic Forms | |
-| __Lesson 16__| Forms Lab |  |
-| __Lesson 17__| Final Project Lab |  |
-| __Lesson 18__| Student Choice Lesson |  |
+| __Lesson 11__| More jQuery | 05-08-19 |
+| __Lesson 12__| Bootstrap | 07-08-19 |
+| __Lesson 13__| Conditionals + This | 19-08-19 |
+| __Lesson 14__| Functions and jQuery Plugins | 21-08-19 |
+| __Lesson 15__| Arrays + Loops | |
+| __Lesson 16__| Basic Forms |  |
+| __Lesson 17__| Forms Lab |  |
+| __Lesson 18__| Final Project Lab |  |
 | __Lesson 19__| Instructor Choice Lesson |  |
 | __Lesson 20__| Final Project Presentations |  |
 
