@@ -55,12 +55,12 @@ The following is a sample schedule based on the materials provided in this repo.
 | __Lesson 12__| Bootstrap | 07-08-19 |
 | __Lesson 13__| Conditionals + This | 19-08-19 |
 | __Lesson 14__| Functions and jQuery Plugins | 21-08-19 |
-| __Lesson 15__| Arrays + Loops | |
-| __Lesson 16__| Basic Forms |  |
-| __Lesson 17__| Forms Lab |  |
-| __Lesson 18__| Final Project Lab |  |
-| __Lesson 19__| Instructor Choice Lesson |  |
-| __Lesson 20__| Final Project Presentations |  |
+| __Lesson 15__| Arrays + Loops | 26-08-19 |
+| __Lesson 16__| Basic Forms | 28-08-19 |
+| __Lesson 17__| Forms Lab | 02-09-19 |
+| __Lesson 18__| Final Project Lab | 04-09-19 |
+| __Lesson 19__| Instructor Choice Lesson | 09-09-19 |
+| __Lesson 20__| Final Project Presentations | 11-09-19  |
 
 <br>
 
